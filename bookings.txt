@@ -1,0 +1,3 @@
+LoggedInUserId|Password|FlightNumber|SeatClass|SeatName
+10|1|101|first class|1a
+1234|12345678|101|economy|22a

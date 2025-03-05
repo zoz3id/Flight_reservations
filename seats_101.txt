@@ -1,0 +1,205 @@
+SeatName|SeatClass|Availability
+1A|First Class|Booked
+1B|First Class|Available
+1E|First Class|Available
+1F|First Class|Available
+2A|First Class|Available
+2B|First Class|Available
+2E|First Class|Available
+2F|First Class|Available
+3A|First Class|Available
+3B|First Class|Available
+3E|First Class|Available
+3F|First Class|Available
+7A|Economy Plus|Available
+7B|Economy Plus|Available
+7C|Economy Plus|Available
+7D|Economy Plus|Available
+7E|Economy Plus|Available
+7F|Economy Plus|Available
+8A|Economy Plus|Available
+8B|Economy Plus|Available
+8C|Economy Plus|Available
+8D|Economy Plus|Available
+8E|Economy Plus|Available
+8F|Economy Plus|Available
+9A|Economy Plus|Available
+9B|Economy Plus|Available
+9C|Economy Plus|Available
+9D|Economy Plus|Available
+9E|Economy Plus|Available
+9F|Economy Plus|Available
+10A|Economy Plus|Available
+10B|Economy Plus|Available
+10C|Economy Plus|Available
+10D|Economy Plus|Available
+10E|Economy Plus|Available
+10F|Economy Plus|Available
+11A|Economy Plus|Available
+11B|Economy Plus|Available
+11C|Economy Plus|Available
+11D|Economy Plus|Available
+11E|Economy Plus|Available
+11F|Economy Plus|Available
+12A|Economy Plus|Available
+12B|Economy Plus|Available
+12C|Economy Plus|Available
+12D|Economy Plus|Available
+12E|Economy Plus|Available
+12F|Economy Plus|Available
+13A|Economy Plus|Available
+13B|Economy Plus|Available
+13C|Economy Plus|Available
+13D|Economy Plus|Available
+13E|Economy Plus|Available
+13F|Economy Plus|Available
+14A|Economy Plus|Available
+14B|Economy Plus|Available
+14C|Economy Plus|Available
+14D|Economy Plus|Available
+14E|Economy Plus|Available
+14F|Economy Plus|Available
+15A|Economy Plus|Available
+15B|Economy Plus|Available
+15C|Economy Plus|Available
+15D|Economy Plus|Available
+15E|Economy Plus|Available
+15F|Economy Plus|Available
+16A|Economy Plus|Available
+16B|Economy Plus|Available
+16C|Economy Plus|Available
+16D|Economy Plus|Available
+16E|Economy Plus|Available
+16F|Economy Plus|Available
+17A|Economy Plus|Available
+17B|Economy Plus|Available
+17C|Economy Plus|Available
+17D|Economy Plus|Available
+17E|Economy Plus|Available
+17F|Economy Plus|Available
+18A|Economy Plus|Available
+18B|Economy Plus|Available
+18C|Economy Plus|Available
+18D|Economy Plus|Available
+18E|Economy Plus|Available
+18F|Economy Plus|Available
+19A|Economy Plus|Available
+19B|Economy Plus|Available
+19C|Economy Plus|Available
+19D|Economy Plus|Available
+19E|Economy Plus|Available
+19F|Economy Plus|Available
+20A|Economy Plus|Available
+20B|Economy Plus|Available
+20C|Economy Plus|Available
+20D|Economy Plus|Available
+20E|Economy Plus|Available
+20F|Economy Plus|Available
+21A|Economy Plus|Available
+21B|Economy Plus|Available
+21C|Economy Plus|Available
+21D|Economy Plus|Available
+21E|Economy Plus|Available
+21F|Economy Plus|Available
+22A|Economy|Booked
+22B|Economy|Available
+22C|Economy|Available
+22D|Economy|Available
+22E|Economy|Available
+22F|Economy|Available
+23A|Economy|Available
+23B|Economy|Available
+23C|Economy|Available
+23D|Economy|Available
+23E|Economy|Available
+23F|Economy|Available
+24A|Economy|Available
+24B|Economy|Available
+24C|Economy|Available
+24D|Economy|Available
+24E|Economy|Available
+24F|Economy|Available
+25A|Economy|Available
+25B|Economy|Available
+25C|Economy|Available
+25D|Economy|Available
+25E|Economy|Available
+25F|Economy|Available
+26A|Economy|Available
+26B|Economy|Available
+26C|Economy|Available
+26D|Economy|Available
+26E|Economy|Available
+26F|Economy|Available
+27A|Economy|Available
+27B|Economy|Available
+27C|Economy|Available
+27D|Economy|Available
+27E|Economy|Available
+27F|Economy|Available
+28A|Economy|Available
+28B|Economy|Available
+28C|Economy|Available
+28D|Economy|Available
+28E|Economy|Available
+28F|Economy|Available
+29A|Economy|Available
+29B|Economy|Available
+29C|Economy|Available
+29D|Economy|Available
+29E|Economy|Available
+29F|Economy|Available
+30A|Economy|Available
+30B|Economy|Available
+30C|Economy|Available
+30D|Economy|Available
+30E|Economy|Available
+30F|Economy|Available
+31A|Economy|Available
+31B|Economy|Available
+31C|Economy|Available
+31D|Economy|Available
+31E|Economy|Available
+31F|Economy|Available
+32A|Economy|Available
+32B|Economy|Available
+32C|Economy|Available
+32D|Economy|Available
+32E|Economy|Available
+32F|Economy|Available
+33A|Economy|Available
+33B|Economy|Available
+33C|Economy|Available
+33D|Economy|Available
+33E|Economy|Available
+33F|Economy|Available
+34A|Economy|Available
+34B|Economy|Available
+34C|Economy|Available
+34D|Economy|Available
+34E|Economy|Available
+34F|Economy|Available
+35A|Economy|Available
+35B|Economy|Available
+35C|Economy|Available
+35D|Economy|Available
+35E|Economy|Available
+35F|Economy|Available
+36A|Economy|Available
+36B|Economy|Available
+36C|Economy|Available
+36D|Economy|Available
+36E|Economy|Available
+36F|Economy|Available
+37A|Economy|Available
+37B|Economy|Available
+37C|Economy|Available
+37D|Economy|Available
+37E|Economy|Available
+37F|Economy|Available
+38A|Economy|Available
+38B|Economy|Available
+38C|Economy|Available
+38D|Economy|Available
+38E|Economy|Available
+38F|Economy|Available

@@ -1,0 +1,4 @@
+FlightNumber|LeavingAirport|ArrivalAirport|LeavingTime|ArrivalTime
+101|Cairo|Dubai|2024-12-10 10:00 AM|2024-12-10 02:00 PM
+102|London|New York|2024-12-12 01:00 PM|2024-12-12 05:00 PM
+103|Paris|Berlin|2024-12-13 03:00 PM|2024-12-13 06:00 PM

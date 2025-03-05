@@ -1,0 +1,6 @@
+ali,alashkar,30501010117198,1,1,1,1,1,1,1
+zyead,america,4,2,2,2,2,2,2,2
+1,a1,1,1,1,1,1,1,,1
+a,a,a,a,aaaaaaaaaa,00000000000,wibci@gmail.com,21,,l
+a,a,5,5,12345678,01127718939,alialashkar654@gmail.com,25,,male
+ali,alashkar,30501010117196,1234,12345678,01127718939,alialshkar654@gmail.com,22,male,egyption
